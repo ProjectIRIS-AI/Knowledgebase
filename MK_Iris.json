@@ -1,0 +1,10 @@
+{
+  "notfound_error": null,
+  "iris_thank": null,
+  "prompts": [
+    {
+      "prompt": "hi",
+      "response": "hello"
+    }
+  ]
+}
